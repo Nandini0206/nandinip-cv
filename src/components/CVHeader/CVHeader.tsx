@@ -23,7 +23,7 @@ const CVHeader: React.FunctionComponent<CVHeaderProps> = ({
   headshot = 'https://placehold.it/600x600'
 }) => (
   <header className="CVHeader">
-    <div className="CVHeader-corner-box"><p>This CV is made in React, view online at: <a href="https://bhishp.github.io/bhishp-cv/">https://bhishp.github.io/bhishp-cv/</a></p></div>
+    <div className="CVHeader-corner-box"><p>This CV is made in React, view online at: <a href="https://Nandini0206.github.io/nandinip-cv/">https://Nandini0206.github.io/nandinip-cv/</a></p></div>
     <div className="CVHeader-headshot-wrapper">
       <img
         className="CVHeader-headshot"
@@ -43,8 +43,8 @@ const CVHeader: React.FunctionComponent<CVHeaderProps> = ({
     <ul className="CVHeader-personal-information">
       {/*<li><FontAwesomeIcon icon={faPhone} /> {number}</li>*/}
       {/*<li><FontAwesomeIcon icon={faEnvelope} /> {email}</li>*/}
-      <li><FontAwesomeIcon icon={faLinkedin} /> <a target="_blank" href="https://linkedin.com/in/bhish/">/in/bhish/</a></li>
-      <li><FontAwesomeIcon icon={faGithub} /> <a target="_blank" href="https://github.com/bhishp">bhishp</a></li>
+      <li><FontAwesomeIcon icon={faLinkedin} /> <a target="_blank" href="https://linkedin.com/in/nandini-patel/">/in/nandinipatel/</a></li>
+      <li><FontAwesomeIcon icon={faGithub} /> <a target="_blank" href="https://github.com/Nandini0206">Nandini0206</a></li>
     </ul>
   </header>
 );

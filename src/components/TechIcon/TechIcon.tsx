@@ -3,38 +3,26 @@ import React from 'react';
 import './TechIcon.css';
 import { TechIcon as TechIconType } from '../../types/data';
 
-import reactIcon from './img/react-icon.png';
-import meteorIcon from './img/meteor-icon.png';
-import nodeIcon from './img/node-icon.png';
-import reduxIcon from './img/redux-icon.png';
-import dockerIcon from './img/64px-docker.png';
-import awsIcon from './img/64px-aws.png';
-import csharpIcon from './img/csharp-icon.png';
-import springIcon from './img/spring.png';
 import sqlIcon from './img/sql-icon.png';
-import javaIcon from './img/java-logo.png';
-import haskellIcon from './img/haskell.png';
-import reduxObservablesIcon from './img/redux-observables.png';
-import swaggerIcon from './img/swagger-logo.png';
-import lambdaIcon from './img/aws-lambda.png';
-import webpackIcon from './img/webpack.png';
+import rubyIcon from './img/ruby-icon.png';
+import javascriptIcon from './img/javascript-icon.png';
+import swiftIcon from './img/swift-icon.png';
+import herokuIcon from './img/heroku-icon.png';
+import jasmineIcon from './img/jasmine-icon.png';
+import tddIcon from './img/tdd-icon.png';
+import travisIcon from './img/travis-icon.png';
+
 
 const TechIconMap = {
-  [TechIconType.REACT]: reactIcon,
-  [TechIconType.METEOR]:  meteorIcon,
-  [TechIconType.NODE]:  nodeIcon,
-  [TechIconType.REDUX]:  reduxIcon,
-  [TechIconType.DOCKER]:  dockerIcon,
-  [TechIconType.AWS]:  awsIcon,
-  [TechIconType.CSHARP]:  csharpIcon,
-  [TechIconType.JAVA]:  javaIcon,
-  [TechIconType.SPRING]:  springIcon,
+
   [TechIconType.SQL]:  sqlIcon,
-  [TechIconType.HASKELL]:  haskellIcon,
-  [TechIconType.REDUX_OBSERVABLES]:  reduxObservablesIcon,
-  [TechIconType.SWAGGER]:  swaggerIcon,
-  [TechIconType.AWS_LAMBDA]:  lambdaIcon,
-  [TechIconType.WEBPACK]:  webpackIcon,
+  [TechIconType.RUBY]:  rubyIcon,
+  [TechIconType.JAVASCRIPT]:  javascriptIcon,
+  [TechIconType.SWIFT]:  swiftIcon,
+  [TechIconType.HEROKU]:  herokuIcon,
+  [TechIconType.JASMINE]:  jasmineIcon,
+  [TechIconType.TDD]:  tddIcon,
+  [TechIconType.TRAVIS]:  travisIcon,
 };
 
 export interface TechIconProps {

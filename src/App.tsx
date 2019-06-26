@@ -13,7 +13,7 @@ const typedData = data as Data;
 
 const {
   forename, surname, profession, number, email,
-  sections: { experience, education, aboutMe }
+  sections: { summary, experience, education, skills, interests }
 } = typedData;
 
 const headerProps = { forename, surname, profession, number, email, headshot };
@@ -23,9 +23,11 @@ const App: React.FunctionComponent = () => (
     <div className="CVWrapper">
       <CVHeader {...headerProps} />
       <div className="CVContent">
+        <CVSection {...summary} />
         <CVSection {...experience} />
         <CVSection {...education} />
-        <CVSection {...aboutMe} />
+        <CVSection {...skills} />
+        <CVSection {...interests} />
       </div>
       <footer className="CVFooter">
         <span>Bebas font courtesy of: <a href="http://bebasfont.com/">http://bebasfont.com/</a></span>

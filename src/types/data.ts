@@ -9,21 +9,14 @@ export enum HeadingIcon {
 }
 
 export enum TechIcon {
-  REACT = 'react',
-  METEOR = 'meteor',
-  NODE = 'node',
-  REDUX = 'redux',
-  DOCKER = 'docker',
-  AWS = 'aws',
-  CSHARP = 'csharp',
-  JAVA = 'java',
-  SPRING = 'spring',
   SQL = 'sql',
-  HASKELL = 'haskell',
-  REDUX_OBSERVABLES = 'redux-observables',
-  SWAGGER = 'swagger',
-  AWS_LAMBDA = 'aws-lambda',
-  WEBPACK = 'webpack',
+  RUBY = 'ruby',
+  JAVASCRIPT = 'javascript',
+  SWIFT = 'swift',
+  HEROKU = 'heroku',
+  JASMINE = 'jasmine',
+  TDD = 'tdd',
+  TRAVIS = 'travis',
 }
 
 export interface Data {
@@ -33,9 +26,11 @@ export interface Data {
   number: string;
   email: string;
   sections: {
+    summary: Section;
     experience: Section;
     education: Section;
-    aboutMe: Section;
+    skills: Section;
+    interests: Section;
   };
 }
 

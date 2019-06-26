@@ -17,6 +17,9 @@
   font-size: 1rem;
   text-align: right;
 }
+a:link {
+color: havelockblue;
+}
 
 @media all and (min-width: 600px) {
   .CVHeader-corner-box { font-size: 0.9rem; }

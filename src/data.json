@@ -1,10 +1,23 @@
 {
-  "forename": "Bhishma",
+  "forename": "Nandini",
   "surname": "Patel",
-  "profession": "Software Developer",
+  "profession": "Junior Software Developer",
   "number": "+48-1516-2342",
   "email": "please@ask.com",
   "sections": {
+    "summary": {
+      "heading": "Summary",
+      "icon" : {
+        "name": "user-alt"
+      },
+      "articles": [
+        {
+          "heading": "",
+          "info": "......",
+          "aside": {}
+        }
+      ]
+    },
     "experience": {
       "heading": "Experience",
       "icon": {
@@ -12,70 +25,27 @@
       },
       "articles": [
         {
-          "heading": "YLD/Trainline",
-          "headingIcons": [ "yld", "trainline" ],
-          "info": "I joined YLD as a senior javascript developer in Feb 2018 and was deployed onsite to consult at Trainline for the entirety of the contract. The focus of this work was around consolidating the UK and European platforms into a Single Global Platform, as the business looked to expand into European and Global markets. Additionally I worked on the redesign of the search ‘matrix’ and ticket selection flow for the core UK audience in line with new designs.\n\nI also worked with another small, mission team to create a new service for querying the consolidated database of 120k+ stations and locations across Europe. The requirements were high resiliency, throughput, stability and multi-lingual support. This was built on AWS infrastructure: EC2, CloudSearch, Lambda.",
-          "footnotes": "Notable Tech: JS/ES6, React, Redux, RxJS, Redux Observables, Node, Swagger, CloudSearch, Lambda",
-          "techIcons": [
-            "react",
-            "redux",
-            "redux-observables",
-            "node",
-            "swagger",
-            "aws-lambda"
-          ],
+          "heading": "The Collective",
+          "info": "The Collective is a property developemnt comapny built around the idea of co-living. As part of the finance teams the duties were as follows:\nControl expenses by completing and receiving payments.\nProcess, verify and reconcile invoices on Xero i.e. weekly payment runs.\nLiaise with suppliers to address disputes and payment failure issues.\nProduce aged payables/receivables reports – communicate with clients who have missed a payment, agree and schedule payments to bring them back on track.\nAssist with producing analyses of accounts and monthly reports (management accounts).\nEnsure compliance with all company policies and procedures.\nPost customer payments by recording cash, cheques, and credit card transactions.",
           "aside": {
-            "title": "Senior JS Dev - Contract",
-            "period": "Feb 2018 - Nov 2018"
+            "title": "Finance Assistant/Credit Controller",
+            "period": "Nov 17 - Jan 19"
           }
         },
         {
-          "heading": "Medstars",
-          "headingIcons": [ "medstars" ],
-          "info": "Medstars.co.uk is a start-up based in Birmingham whose aim is to provide an online and localised directory of private medical practitioners. The brief of this project was to design and build a working prototype from scratch, with architecture and framework decisions left to myself and a fellow freelancer.",
-          "footnotes": "Notable Tech: JS/ES6, Node, Meteor, React, React Storybook, React Router, SASS",
-          "techIcons": [
-            "react",
-            "meteor",
-            "node"
-          ],
+          "heading": "Kings Road Medical Centre",
+          "info": "As a receptionist duties included; arranging patient appointments, filing patient records and answering telephone queries.",
           "aside": {
-            "title": "Freelance Fullstack Developer",
-            "period": "Apr 2017 - Aug 2017"
+            "title": "Receptionist",
+            "period": "May 15 - Nov 17"
           }
         },
         {
-          "heading": "School of Code",
-          "headingIcons": [ "soc" ],
-          "info": "School of Code is a learn-to-code startup I founded with a friend from University that aims to diversify technology by changing the way that coding is taught. The SoC has built a prototype of an online coding platform which teaches coding through an interactive game, and has reached over 100,000 learners through partnering with Code.org - try it yourself at schoolofcode.io.",
-          "footnotes": "Notable Tech: JS/ES6, React, Redux, Socket-io, Webpack, CSS Modules, Node, AWS, Docker, Redis, MongoDB",
-          "techIcons": [
-            "react",
-            "redux",
-            "webpack",
-            "node",
-            "docker",
-            "aws"
-          ],
+          "heading": "Union Bank of India ",
+          "info": "4-week long internship which involved a rotation programme allowing myself to gain an insight into the various roles and positions held in the bank. The areas in which the programme covered: HR, Risk, Audit, Treasury, Branch, IT & Security. Duties include: carrying out tasks in the branch (opening of bank accounts, checking/updating individual details using a software programme, filing) understanding the duties and daily roles of those in the Risk and Audit Department as well as, the HR department.",
           "aside": {
-            "title": "Co-Founder and CTO",
-            "period": "Sep 2015 - Apr 2017"
-          }
-        },
-        {
-          "heading": "Credit Suisse",
-          "headingIcons": [ "credit-suisse" ],
-          "info": "Working at Credit Suisse was my first role upon graduating from University and involved rotations amongst two different teams, the AES Algorithmic Trading team, and SDP (Single Dealer Platform) team.\n\nAES is an algorithmic trading platform that operates in various markets such as the LSE, NYSE and global  futures exchanges. This role involved representing complex trading models in a proprietary C# codebase.\n\nSDP was a web-based trading platform developed by Credit Suisse to enable its clients to trade a variety of different asset classes, predominantly FX. The frontend was built in DotNet/Silverlight, connected to a Java/SpringFramework backend.",
-          "footnotes": "Notable Tech: C#/DotNet, Java, Spring Framework, SQL",
-          "techIcons": [
-            "csharp",
-            "java",
-            "spring",
-            "sql"
-          ],
-          "aside": {
-            "title": "Graduate Software Developer",
-            "period": "Sep 2011 - Sep 2015"
+            "title": "Intern",
+            "period": "Aug 16 - Sep 16"
           }
         }
       ]
@@ -87,55 +57,83 @@
       },
       "articles": [
         {
-          "heading": "BSc Computer Science - First Class",
-          "info": "Four year course (including a year working in industry). Modules included were: OOP in Java, Functional Programming with Haskell, Language and Logic, Languages and Compilers.",
-          "techIcons": ["java", "haskell"],
+          "heading": "Coding Bootcamp",
+          "info": "12 Week Full Stack Software Developing Bootcamp\n",
           "aside": {
-            "title": "University of Birmingham",
-            "period": "Sep 2008 - July 2011"
+            "title": "Makers Academy",
+            "period": "Feb 19 - Jun 19"
+          }
+        },
+        {
+          "heading": "BSc Economics & Finance - 2:1",
+          "info": "Three year course.\nModules included: Econometrics, Microeconomics,\n Macroeconomics, Fiancial Economics and Capital Markets.",
+          "aside": {
+            "title": "University of York",
+            "period": "Sep 14 - Jul 17"
+          }
+        },
+        {
+          "heading": "A-Levels",
+          "info": "Mathematics, Economics, Chemistry, Biology",
+          "aside": {
+            "title": "St Dominic's Sixth Form College",
+            "period": "Sep 12 - Jul 14"
           }
         }
       ]
     },
-    "aboutMe": {
-      "heading": "About Me",
+    "skills": {
+      "heading": "Skills",
+      "icon": {
+        "name": "users-cog"
+      },
+      "articles": [
+        {
+          "info": "-Communication\n\n-Attention to Detail\n\n-Adaptable to Change\n\n-Quick Learner\n\n-Problem Solving\n\n-Modelling\n    -HTML\n    -CSS\n    -Ruby\n\n   -JavaScript\n   -Swift\n   -SQL\n\n  -Jasmine\n  -Travis\n  -Heroku\n  -RSpec\n  -Rails\n  -TDD\n   -Agile Process",
+          "techIcons": [
+            "sql",
+            "ruby",
+            "javascript",
+            "swift",
+            "heroku",
+            "jasmine",
+            "tdd",
+            "travis"
+          ],
+          "aside": {}
+        }
+      ]
+    },
+    "interests": {
+      "heading": "Interests",
       "icon": {
         "name": "user-alt"
       },
       "articles": [
         {
-          "heading": "Keen Traveller",
-          "info": "Have solo travelled around Asia, including China, Cambodia and Thailand.\nCompleted a 9,500 mile RV roadtrip across the United States in 2017.",
+          "heading": "Blogging",
+          "info": "As part of the Makers Academy course, a friend and I set up an instagram page to showcase the projects worked on throughout the course.",
           "aside": {
             "icon": {
-              "name": "globe-americas"
+              "name": "instagram"
             }
           }
         },
         {
-          "heading": "Music and Festivals",
-          "info": "Regular festival goer, including Glastonbury and Tomorrowland. Attempting to learn some live coding, playing with Tidalcycles and Sonic Pi.",
+          "heading": "Art",
+          "info": "Casual painter, try to pick up a paintbrush whenever I get a chance.",
           "aside": {
             "icon": {
-              "name": "music"
+              "name": "paint-brush"
             }
           }
         },
         {
-          "heading": "Sports and Fitness",
-          "info": "Regular 5-aside footballer and badminton player. A keen hiker, having hiked US National Parks such as Yellowstone and Bryce Canyon.",
+          "heading": "Gym/Fitness",
+          "info": "Regular gym goer, interests in powerlifting and bodybuilding.",
           "aside": {
             "icon": {
-              "name": "running"
-            }
-          }
-        },
-        {
-          "heading": "Games and Games Development",
-          "info": "Casual gamer. Spent 1 week beta games testing a Lionhead Studios in 2005.",
-          "aside": {
-            "icon": {
-              "name": "gamepad"
+              "name": "dumbbell"
             }
           }
         }
