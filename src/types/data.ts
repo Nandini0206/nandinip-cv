@@ -1,11 +1,7 @@
 import { IconName as FAIconName } from '@fortawesome/free-solid-svg-icons';
 
 export enum HeadingIcon {
-  YLD = 'yld',
-  TRAINLINE = 'trainline',
-  MEDSTARS = 'medstars',
-  SCHOOL_OF_CODE = 'soc',
-  CREDIT_SUISSE = 'credit-suisse',
+  COLLECTIVE = 'collective',
 }
 
 export enum TechIcon {

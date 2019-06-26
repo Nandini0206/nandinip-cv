@@ -3,18 +3,11 @@ import React from 'react';
 import './HeadingIcon.css';
 import { HeadingIcon as HeadingIconType } from '../../../types/data';
 
-import yldIcon from './img/yld.jpg';
-import trainlineIcon from './img/trainline.png';
-import medstarsIcon from './img/medstars.png';
-import socIcon from './img/soc.png';
-import creditSuisseIcon from './img/credit-suisse.png';
+import collectiveIcon from './img/collective.png';
 
 const HeadingIconMap = {
-  [HeadingIconType.YLD]: yldIcon,
-  [HeadingIconType.TRAINLINE]:  trainlineIcon,
-  [HeadingIconType.MEDSTARS]:  medstarsIcon,
-  [HeadingIconType.SCHOOL_OF_CODE]:  socIcon,
-  [HeadingIconType.CREDIT_SUISSE]:  creditSuisseIcon,
+  [HeadingIconType.COLLECTIVE]: collectiveIcon,
+
 };
 
 export interface HeadingIconProps {

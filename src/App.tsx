@@ -6,7 +6,7 @@ import './bootstrap-font-awesome';
 import './App.css';
 import CVHeader from './components/CVHeader/CVHeader';
 import CVSection from './components/CVSection/CVSection';
-import headshot from './img/bhish-superman.png';
+import headshot from './img/nandini.png';
 
 import data from './data.json';
 const typedData = data as Data;
