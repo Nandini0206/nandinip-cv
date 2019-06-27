@@ -1,5 +1,5 @@
 @value shared: "../../style/shared.css";
-@value outerspace, havelockblue, quillgray, white, headingfont from shared;
+@value outerspace, bouquet, quillgray, white, headingfont from shared;
 
 .Section {
   padding-top: 10px;

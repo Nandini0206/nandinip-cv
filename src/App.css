@@ -1,5 +1,5 @@
 @value shared: "./style/shared.css";
-@value outerspace, havelockblue, quillgray, white, scorpion from shared;
+@value outerspace, bouquet, quillgray, white, scorpion from shared;
 
 .CV {
   background-color: scorpion;

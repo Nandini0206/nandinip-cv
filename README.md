@@ -1,3 +1,3 @@
-# bhishp-cv
+# nandinip-cv
 
-See it live at: https://bhishp.github.io/bhishp-cv/
+See it live at: https://Nandini0206.github.io/nandinip-cv/

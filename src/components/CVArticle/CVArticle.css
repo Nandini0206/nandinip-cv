@@ -1,5 +1,5 @@
 @value shared: "../../style/shared.css";
-@value outerspace, havelockblue, quillgray, white, headingfont from shared;
+@value outerspace, bouquet, quillgray, white, headingfont from shared;
 
 .Article {
   padding: 10px 0;
@@ -22,7 +22,7 @@
 .Article-aside-title {
   font-family: headingfont;
   text-transform: uppercase;
-  color: havelockblue;
+  color: bouquet;
   word-spacing: 0.2em;
   font-size: 16px;
   font-weight: bold;

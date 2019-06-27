@@ -1,5 +1,5 @@
 @value shared: "../../style/shared.css";
-@value outerspace, havelockblue, quillgray, white, scorpion, headingfont from shared;
+@value outerspace, bouquet, quillgray, white, scorpion, headingfont from shared;
 
 .CVHeader {
   color: white;
@@ -18,7 +18,7 @@
   text-align: right;
 }
 a:link {
-color: havelockblue;
+color: bouquet;
 }
 
 @media all and (min-width: 600px) {
@@ -58,7 +58,7 @@ color: havelockblue;
   color: white;
 }
 .CVHeader-surname {
-  color: havelockblue;
+  color: bouquet;
   margin-left: 5px;
 }
 
@@ -67,7 +67,7 @@ color: havelockblue;
   color: white;
 }
 .CVHeader-profession span:nth-child(even) {
-  color: havelockblue;
+  color: bouquet;
   margin-left: 5px;
 }
 

@@ -1,12 +1,12 @@
 @value shared: "../../style/shared.css";
-@value havelockblue from shared;
+@value bouquet from shared;
 
 .CVIcon {
   width: 1.375rem !important;
   height: 1.375rem !important;
   padding: 8px;
   margin-right: 5px;
-  background-color: havelockblue;
+  background-color: bouquet;
   border-radius: 50%;
   color: white;
 }
