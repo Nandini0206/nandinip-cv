@@ -58,7 +58,7 @@
       "articles": [
         {
           "heading": "Coding Bootcamp",
-          "info": "12 Week Full Stack Software Developing Bootcamp\n",
+          "info": "12 Week Full Stack Software Developing Bootcamp focused on OOD and TDD. The course taught me that once you know one language it is so easy to learn a new language. Some of these languages included; Ruby, JavaScript, Ruby on Rails. At the end of the course a final group project was completed, built in Xcode using Swift as a language. The problem we wanted to tackle with this app was food waste on a small scale. The app generates recipes based on available ingredients inputted.\n",
           "aside": {
             "title": "Makers Academy",
             "period": "Feb 19 - Jun 19"
