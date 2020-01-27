@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nandinip-cv/precache-manifest.07d621f745c6b81967e92908f202dd5a.js"
+  "/nandinip-cv/precache-manifest.782c12c71592aaf37691427206037e99.js"
 );
 
 workbox.clientsClaim();

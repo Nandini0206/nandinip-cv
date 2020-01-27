@@ -1,7 +1,7 @@
 {
   "main.css": "/nandinip-cv/static/css/main.81cc91b1.chunk.css",
-  "main.js": "/nandinip-cv/static/js/main.6a26c02f.chunk.js",
-  "main.js.map": "/nandinip-cv/static/js/main.6a26c02f.chunk.js.map",
+  "main.js": "/nandinip-cv/static/js/main.05c57fa2.chunk.js",
+  "main.js.map": "/nandinip-cv/static/js/main.05c57fa2.chunk.js.map",
   "static/js/1.6f3dba89.chunk.js": "/nandinip-cv/static/js/1.6f3dba89.chunk.js",
   "static/js/1.6f3dba89.chunk.js.map": "/nandinip-cv/static/js/1.6f3dba89.chunk.js.map",
   "runtime~main.js": "/nandinip-cv/static/js/runtime~main.0bd920f9.js",
@@ -17,6 +17,6 @@
   "static/media/sql-icon.png": "/nandinip-cv/static/media/sql-icon.9d2f5f92.png",
   "static/css/main.81cc91b1.chunk.css.map": "/nandinip-cv/static/css/main.81cc91b1.chunk.css.map",
   "index.html": "/nandinip-cv/index.html",
-  "precache-manifest.07d621f745c6b81967e92908f202dd5a.js": "/nandinip-cv/precache-manifest.07d621f745c6b81967e92908f202dd5a.js",
+  "precache-manifest.782c12c71592aaf37691427206037e99.js": "/nandinip-cv/precache-manifest.782c12c71592aaf37691427206037e99.js",
   "service-worker.js": "/nandinip-cv/service-worker.js"
 }

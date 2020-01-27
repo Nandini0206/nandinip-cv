@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/nandinip-cv/static/media/swift-icon.2ba6c1b1.png"
   },
   {
-    "revision": "6a26c02f6b366ac8f116",
+    "revision": "05c57fa2b5adaef1dd4c",
     "url": "/nandinip-cv/static/css/main.81cc91b1.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/nandinip-cv/static/media/ruby-icon.22fa4e13.png"
   },
   {
-    "revision": "6a26c02f6b366ac8f116",
-    "url": "/nandinip-cv/static/js/main.6a26c02f.chunk.js"
+    "revision": "05c57fa2b5adaef1dd4c",
+    "url": "/nandinip-cv/static/js/main.05c57fa2.chunk.js"
   },
   {
     "revision": "f3fb214b769cedca8837a7a3302428c6",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/nandinip-cv/static/media/BEBAS.7d3d597a.ttf"
   },
   {
-    "revision": "871d30a5f72c095d4047a09f834212b0",
+    "revision": "92c3d39ae477a3e847094160cf3498ca",
     "url": "/nandinip-cv/index.html"
   }
 ];
