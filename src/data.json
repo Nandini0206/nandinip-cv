@@ -25,8 +25,16 @@
       },
       "articles": [
         {
+          "heading": "Newsquawk",
+          "info": "Newsquawk is a company that delivers news to traders. As as Junior developer the role involves:\nDeveloping applications in an agile enviroment using Ruby, JavaScript, HTML, CSS, as well as external APIs.\nHelp re-engineer and continuosly improve existing applications.\nAssesing users needs, design a potential solution and then selecting the most suitsble software - taking that through to the development stage.",
+          "aside": {
+            "title": "Junior Developer",
+            "period": "Nov 19 - Present"
+          }
+        },
+        {
           "heading": "The Collective",
-          "info": "The Collective is a property developemnt comapny built around the idea of co-living. As part of the finance teams the duties were as follows:\nControl expenses by completing and receiving payments.\nProcess, verify and reconcile invoices on Xero i.e. weekly payment runs.\nLiaise with suppliers to address disputes and payment failure issues.\nProduce aged payables/receivables reports – communicate with clients who have missed a payment, agree and schedule payments to bring them back on track.\nAssist with producing analyses of accounts and monthly reports (management accounts).\nEnsure compliance with all company policies and procedures.\nPost customer payments by recording cash, cheques, and credit card transactions.",
+          "info": "The Collective is a property developemnt company built around the idea of co-living. As part of the finance teams the duties were as follows:\nControl expenses by completing and receiving payments.\nProcess, verify and reconcile invoices on Xero i.e. weekly payment runs.\nLiaise with suppliers to address disputes and payment failure issues.\nProduce aged payables/receivables reports – communicate with clients who have missed a payment, agree and schedule payments to bring them back on track.\nAssist with producing analyses of accounts and monthly reports (management accounts).\nEnsure compliance with all company policies and procedures.\nPost customer payments by recording cash, cheques, and credit card transactions.",
           "aside": {
             "title": "Finance Assistant/Credit Controller",
             "period": "Nov 17 - Jan 19"
